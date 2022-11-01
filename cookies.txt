@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.lookgreatnaked.com	TRUE	/	FALSE	1999999999	PHPSESSID	39989715b829bf1e1c94ef6f543a0ce5
+
